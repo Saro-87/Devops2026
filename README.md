@@ -1,2 +1,3 @@
 # Devops2026
-learn to vried
+learn From Vired
+This my first project 
