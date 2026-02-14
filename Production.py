@@ -1,1 +1,6 @@
 print("SOME JOIN TO THIS DEVOPS")
+print('LocalFeatures 41')
+print('LocalFeatures 42')
+print('LocalFeatures 43')
+print('LocalFeatures 44')
+print('LocalFeatures 45')
